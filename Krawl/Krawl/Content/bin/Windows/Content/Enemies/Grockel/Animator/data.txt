@@ -1,0 +1,5 @@
+Name: Grockel
+Damage: 17
+AttSpeed: 2
+Speed: 2.5
+Health: 14

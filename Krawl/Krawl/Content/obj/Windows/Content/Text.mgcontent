@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Text.spritefont</SourceFile>
+  <SourceTime>2019-04-28T15:48:37.2482737-04:00</SourceTime>
+  <DestFile>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/bin/Windows/Content/Text.xnb</DestFile>
+  <DestTime>2019-04-28T22:26:35.4187769-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-01-19T16:27:06-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-01-19T16:27:06-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

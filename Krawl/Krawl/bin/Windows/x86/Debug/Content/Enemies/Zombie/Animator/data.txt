@@ -1,0 +1,5 @@
+Name: Zombie
+Damage: 17
+AttSpeed: 5
+Speed: 2
+Health: 19

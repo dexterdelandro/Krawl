@@ -1,0 +1,150 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using Krawl.GameArchitecture;
+using Krawl.GameplayArchitecture;
+
+namespace Krawl
+{
+	public enum States {Menu, Round, P1Shop, P2Shop, BothShop, GameOver}
+	static class GameManager
+	{
+		static private int round;
+		static private bool p1ShopOpen;
+		static private bool p2ShopOpen;
+        static private States state = States.Menu;
+
+		//info needed to create & upgrade enemies
+		static private int numEnemiesStart;
+		static public List<Enemy> EnemiesP1 = new List<Enemy>();
+		static public List<Enemy> EnemiesP2 = new List<Enemy>();
+		static private double[] enemyStatScalar = { 0.2, 0.3 };
+		static private int currentEnemyHp;
+		static private int currentEnemyAttack;
+		static private int currentEnemyGold;
+		static private int currentEnemyMovementSpeed;
+		static private int currentEnemyAttackSpeed;
+		private const int ADD_ENEMIES_ROUND = 3;
+		private const int NUM_ENEMIES_ADDED = 3;
+		private const int MAX_ENEMIES = 50;
+		static private bool createdRound;
+		static private Player p1;
+		static private Player p2;
+
+		/// <summary>
+		/// gets the current state of the game
+		/// </summary>
+		static public States State { get { return state; } set { state = value; } }
+
+		/// <summary>
+		/// gets the current round
+		/// </summary>
+		static public int Round { get { return round; } }
+
+		/// <summary>
+		/// gets or sets whether the shop door is open for player1
+		/// </summary>
+		static public bool P1ShopOpen { get { return p1ShopOpen; } set { p1ShopOpen = value; } }
+
+		/// <summary>
+		/// gets or sets whether the shop door is open for player2
+		/// </summary>
+		static public bool P2ShopOpen { get { return p2ShopOpen; } set { p2ShopOpen = value; } }
+
+        
+		/// <summary>
+		/// Checks whether or not conditinos are met to change the state, if they are met, it changes the state
+		/// </summary>
+		public static void UpdateState() {
+
+			//will change when we get the menu created
+			
+			switch (state) {
+
+				case States.Menu:
+					//if button pressed -> state = States.Round;
+					break;
+
+				case States.Round:
+					//if (!createdRound) {
+					//	NextRound();
+					//	createdRound = true;
+					//}
+					//if (p1.HP == 0 || p2.HP == 0) state = States.GameOver;
+					//if (EnemiesP1.Count == 0) state = States.P1Shop;
+					//if (EnemiesP2.Count == 0) state = States.P2Shop;
+					break;
+
+				case States.P1Shop:
+					if(!p1ShopOpen)p1ShopOpen = true;
+					if (p2.HP == 0) state = States.GameOver;
+					if (EnemiesP2.Count == 0) state = States.BothShop;
+					break;
+
+				case States.P2Shop:
+					if(!p2ShopOpen)p2ShopOpen = true;
+					if (p1.HP == 0) state = States.GameOver;
+					if (EnemiesP1.Count == 0) state = States.BothShop;
+					break;
+
+				case States.BothShop:
+					if(!p1ShopOpen) p1ShopOpen= true;
+					if(!p2ShopOpen) P2ShopOpen = true;
+					//if both are ready state{
+						//createdRound = false;
+						//state = State.Round;
+					//}
+					break;
+
+				case States.GameOver:
+					//if button is pressed? state = States.Menu;
+					break;
+			}
+		}
+
+		/// <summary>
+		/// Creates the next round: creates new enemies, closes shop doors, resets player position
+		/// </summary>
+		private static void NextRound() {
+			p1ShopOpen = false;
+			p2ShopOpen = false;
+			round++;
+			CreateEnemies();
+			//set player positions
+
+		}
+
+		/// <summary>
+		/// Creates the new enemies: Every 3 rounds add new enemies, Every other round, increase stats of enemies
+		/// </summary>
+		private static void CreateEnemies()
+		{
+			//if this is a round where we add more enemies, then add 3 new enemies with same stats as first enemy in list
+			if (numEnemiesStart < MAX_ENEMIES && round % ADD_ENEMIES_ROUND == 0)
+			{
+				numEnemiesStart += NUM_ENEMIES_ADDED;
+				for (int i = 0; i < numEnemiesStart; i++) {
+					//with "current" stats
+					Enemy temp = new Enemy();
+					EnemiesP1.Add(temp);
+					EnemiesP2.Add(temp);
+				}
+
+			}
+			//if not, then increase the hp and attack of the enemies by the scalar amount.
+			else {
+				for (int i = 0; i < numEnemiesStart; i++) {
+					//make these enemies with increased stats
+					//e.maxHP += (int)(enemyStatScalar[0] * round * e.maxHP);
+					//e.attack += (int)(enemyStatScalar[1] * round * e.attack);
+					Enemy temp = new Enemy();
+					EnemiesP1.Add(temp);
+					EnemiesP2.Add(temp);
+				}
+			}
+		}
+	}
+}

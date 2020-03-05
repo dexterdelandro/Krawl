@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/arial12.spritefont</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Attack/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Attack/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Attack/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Attack/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Idle/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Idle/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Idle/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Idle/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Move/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Move/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Move/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Chort/Animator/Move/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Attack/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Attack/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Attack/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Attack/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Idle/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Idle/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Idle/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Idle/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Move/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Move/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Move/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Grockel/Animator/Move/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Attack/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Attack/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Attack/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Attack/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Idle/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Idle/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Idle/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Idle/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Move/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Move/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Move/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Swampy/Animator/Move/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Attack/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Attack/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Attack/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Attack/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Attack/04.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Attack/05.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Idle/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Idle/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Idle/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Idle/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Move/00.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Move/01.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Move/02.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Enemies/Zombie/Animator/Move/03.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/001.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/002.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/003.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/004.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/005.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/006.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/007.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/008.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/009.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/010.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/011.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/012.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/013.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/014.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/015.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/016.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/017.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/018.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/019.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/big_demon_idle_anim_f0.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/big_demon_idle_anim_f1.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/big_demon_idle_anim_f2.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/big_demon_idle_anim_f3.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/blank.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/blankProjectile.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/floor_1.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/health_bar.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/health_bar_blue.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/health_bar_decoration.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/health_bar_decoration_blue.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/health_bar_o.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_f_idle_anim_f0.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_f_idle_anim_f1.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_f_idle_anim_f2.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_f_idle_anim_f3.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_f_run_anim_f0.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_f_run_anim_f1.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_f_run_anim_f2.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_f_run_anim_f3.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_m_idle_anim_f0.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_m_idle_anim_f1.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_m_idle_anim_f2.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_m_idle_anim_f3.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_m_run_anim_f0.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_m_run_anim_f1.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_m_run_anim_f2.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/knight_m_run_anim_f3.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/KrawlTitle.PNG</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/Player copy.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/Shopkeeper.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/StartButton.PNG</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Images/white.jpg</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/001.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/002.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/003.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/004.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/005.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/006.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/007.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/008.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/009.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/010.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/011.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/012.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/013.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/014.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/015.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/016.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/017.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/018.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Items/019.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile000.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile001.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile002.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile003.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile004.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile005.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile006.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile007.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile008.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile009.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile010.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile011.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile012.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile013.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile014.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile015.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile016.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile017.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile018.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile019.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile020.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile021.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile022.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile023.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile024.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile025.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile026.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile027.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile028.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile029.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile030.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile031.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile032.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile033.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile034.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile035.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile036.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile037.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile038.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile039.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile040.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile041.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile042.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile043.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile044.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile045.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile046.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile047.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile048.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile049.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile050.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile051.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile052.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile053.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile054.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile055.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile056.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile057.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile058.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile059.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile060.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile061.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile062.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile063.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile064.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile065.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile066.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile067.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile068.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile069.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile070.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile071.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile072.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile073.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile074.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile075.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile076.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile077.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile078.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile079.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile080.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile081.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile082.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile083.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile084.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile085.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile086.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile087.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile088.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile089.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile090.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile091.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile092.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile093.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile094.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile095.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile096.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile097.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile098.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile099.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile100.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile101.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile102.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile103.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile104.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile105.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile106.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile107.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile108.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile109.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile110.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile111.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile112.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile113.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile114.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile115.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile116.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile117.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile118.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile119.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile120.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile121.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile122.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile123.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile124.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile125.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile126.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile127.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile128.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile129.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile130.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile131.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile132.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile133.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile134.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile135.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile136.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile137.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile138.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile139.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile140.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile141.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile142.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile143.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile144.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile145.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile146.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile147.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile148.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile149.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile150.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile151.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile152.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile153.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile154.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile155.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile156.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile157.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile158.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile159.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile160.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile161.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile162.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile163.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile164.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile165.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile166.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile167.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile168.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile169.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile170.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile171.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile172.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile173.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile174.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile175.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile176.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile177.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile178.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile179.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile180.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile181.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile182.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile183.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile184.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile185.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile186.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile187.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile188.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile189.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile190.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile191.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile192.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile193.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile194.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile195.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile196.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile197.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile198.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile199.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile200.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile201.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile202.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile203.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile204.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile205.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile206.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile207.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile208.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile209.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile210.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile211.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile212.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile213.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile214.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile215.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile216.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile217.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile218.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile219.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile220.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile221.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile222.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile223.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile224.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile225.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile226.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile227.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile228.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile229.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile230.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile231.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile232.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile233.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile234.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile235.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile236.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile237.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile238.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile239.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile240.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile241.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile242.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile243.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile244.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile245.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile246.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile247.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile248.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile249.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile250.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile251.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile252.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile253.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile254.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile255.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile256.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile257.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile258.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile259.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile260.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile261.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile262.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile263.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile264.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile265.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile266.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile267.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile268.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/RoomTileSet/tile269.png</File>
+    <File>C:/Users/Josh/Source/Repos/game/Krawl/Krawl/Content/Text.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/big_demon_idle1.png</File>
+    <File>Images/big_demon_idle2.png</File>
+    <File>Images/big_demon_idle3.png</File>
+    <File>Images/big_demon_idle4.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/knight1_idle_1.png</File>
+    <File>Images/knight1_idle_2.png</File>
+    <File>Images/knight1_idle_3.png</File>
+    <File>Images/knight1_idle_4.png</File>
+    <File>Images/knight1_run_1.png</File>
+    <File>Images/knight1_run_2.png</File>
+    <File>Images/knight1_run_3.png</File>
+    <File>Images/knight1_run_4.png</File>
+    <File>Images/knight2_idle_1.png</File>
+    <File>Images/knight2_idle_2.png</File>
+    <File>Images/knight2_idle_3.png</File>
+    <File>Images/knight2_idle_4.png</File>
+    <File>Images/knight2_run_1.png</File>
+    <File>Images/knight2_run_2.png</File>
+    <File>Images/knight2_run_3.png</File>
+    <File>Images/knight2_run_4.png</File>
+    <File>Images/krawl_title.png</File>
+    <File>Images/player.png</File>
+    <File>Images/shopkeeper.png</File>
+    <File>Images/start_button.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

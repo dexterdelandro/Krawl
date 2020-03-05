@@ -1,0 +1,5 @@
+Name: Chort
+Damage: 12
+AttSpeed: 4
+Speed: 4
+Health: 6

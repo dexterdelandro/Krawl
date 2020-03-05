@@ -1,0 +1,5 @@
+Name: Swampy
+Damage: 12
+AttSpeed: 10
+Speed: 3
+Health: 11
